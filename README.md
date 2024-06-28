@@ -27,8 +27,9 @@ Responsividade: A aplicação é totalmente responsiva, garantindo uma experiên
   <br>
   <br>
 
- <img src="https://github.com/Sykezin000/Projeto-JoKenPo/blob/main/asset/Captura%20de%20tela%202024-06-27%20214546.png?raw=true">
- 
+ <img src="https://github.com/Sykezin000/Projeto-JoKenPo/blob/main/asset/Captura%20de%20tela%202024-06-27%20214546.png?raw=true"> 
+ <img src="https://github.com/Sykezin000/Projeto-JoKenPo/blob/main/asset/Captura%20de%20tela%202024-06-27%20214626.png?raw=true">
+
  
  
  
