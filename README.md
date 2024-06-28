@@ -26,5 +26,21 @@ Responsividade: A aplicação é totalmente responsiva, garantindo uma experiên
 - JavaScript: Implementa a lógica do jogo e gerencia a interatividade.
   <br>
   <br>
-  O projeto de Jokenpo é uma maneira divertida e educativa de explorar o desenvolvimento web utilizando HTML, CSS e JavaScript. Ele combina lógica de programação com design de interface, resultando em uma aplicação web funcional e esteticamente agradável. Ideal para desenvolvedores que desejam praticar e demonstrar suas habilidades em um projeto prático.
+
+ <img src="https://github.com/Sykezin000/Projeto-JoKenPo/blob/main/asset/Captura%20de%20tela%202024-06-27%20214546.png?raw=true">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <h2> O projeto de Jokenpo é uma maneira divertida e educativa de explorar o desenvolvimento web utilizando HTML, CSS e JavaScript. Ele combina lógica de programação com design de interface, resultando em uma aplicação web funcional e esteticamente agradável. Ideal para desenvolvedores que desejam praticar e demonstrar suas habilidades em um projeto prático.
   </h2>
